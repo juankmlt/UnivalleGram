@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "app-login-cf005": {
+      "hosting": {
+        "UnivalleGram": [
+          "app-login-cf005"
+        ]
+      }
+    }
+  }
+}
